@@ -13,9 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/nickbrueggemann-stl/commits/issues"
   },
-  "homepage": "https://github.com/nickbrueggemann-stl/commits#readme"
+  "homepage": "https://github.com/nickbrueggemann-stl/commits#readme",
+  "dependencies": {
+    "conventional-changelog": "^7.2.0"
+  }
 }
