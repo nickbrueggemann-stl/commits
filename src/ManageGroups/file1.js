@@ -8,3 +8,5 @@ function sortThisArray(arr) {
         return 0;
     });
 }
+
+module.exports = { sortThisArray };
